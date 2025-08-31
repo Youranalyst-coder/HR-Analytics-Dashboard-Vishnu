@@ -1,6 +1,15 @@
 # HR-Analytics-Dashboard-Vishnu
 HR Analytics Dashboard built in Power BI to analyze employee attrition, demographics, and performance.
 
+Installation Instructions ⚙️📥
+Clone the repository
+
+Install Power BI Desktop from the official website: Power BI Desktop
+
+Open Power BI Desktop and navigate to "Open" > "File" and select the project file (.pbix) from the cloned repository.
+
+Explore the dashboard, interact with visualizations, and gain insights from the data. 📊🔍
+
 🚀 Features
 
 Employee Headcount & Gender Distribution – Provides an overview of workforce composition across departments and gender balance.
